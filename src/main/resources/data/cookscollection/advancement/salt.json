@@ -2,7 +2,7 @@
   "parent": "farmersdelight:main/craft_knife",
   "display": {
     "icon": {
-      "item": "cookscollection:salt"
+      "id": "cookscollection:salt"
     },
     "title": "Why so salty?!",
     "description": "Place soul sand between water and dripstone",
@@ -12,7 +12,7 @@
     "hidden": false
   },
   "criteria": {
-    "pickle": {
+    "salt": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
