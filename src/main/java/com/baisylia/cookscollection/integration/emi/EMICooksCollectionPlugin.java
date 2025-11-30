@@ -14,7 +14,7 @@ import net.minecraft.client.Minecraft;
 import net.minecraft.resources.ResourceLocation;
 
 @EmiEntrypoint
-public class EMIModestMiningPlugin implements EmiPlugin {
+public class EMICooksCollectionPlugin implements EmiPlugin {
 
     static final ResourceLocation TEXTURE = CooksCollection.locate("textures/gui/oven_gui_jei.png");
 
@@ -23,7 +23,7 @@ public class EMIModestMiningPlugin implements EmiPlugin {
 
     private static EmiRenderable simplifiedRenderer(int u, int v) {
         return (draw, x, y, delta) -> {
-            draw.blit(TEXTURE, x, y, u, v, 120, 60, 120, 60);
+            draw.blit(TEXTURE, x, y, u, v, 124, 58, 124, 58);
         };
     }
 
