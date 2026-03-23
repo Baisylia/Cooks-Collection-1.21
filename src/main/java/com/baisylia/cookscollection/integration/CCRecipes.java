@@ -24,6 +24,14 @@ public class CCRecipes {
         }
     }
 
+    public List<RecipeHolder<OvenRecipe>> getOvenHolders() {
+        return recipeManager.getAllRecipesFor(ModRecipes.BAKING.get()).stream().toList();
+    }
+
+    public List<RecipeHolder<OvenShapedRecipe>> getOvenShapedHolders() {
+        return recipeManager.getAllRecipesFor(ModRecipes.BAKING_SHAPED.get()).stream().toList();
+    }
+
     public List<OvenRecipe> getOvenRecipes() {
         return recipeManager.getAllRecipesFor(ModRecipes.BAKING.get()).stream().map(RecipeHolder::value).toList();
     }

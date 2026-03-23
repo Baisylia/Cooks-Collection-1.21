@@ -1,7 +1,8 @@
-package com.baisylia.cookscollection.integration;
+package com.baisylia.cookscollection.integration.jei;
 
 import com.baisylia.cookscollection.CooksCollection;
 import com.baisylia.cookscollection.block.ModBlocks;
+import com.baisylia.cookscollection.integration.CCRecipes;
 import com.baisylia.cookscollection.recipe.OvenRecipe;
 import com.baisylia.cookscollection.recipe.OvenShapedRecipe;
 import mezz.jei.api.IModPlugin;

@@ -26,5 +26,11 @@
   ],
   "result": {
     "id": "farmersdelight:apple_pie"
-  }
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "brewinandchewin"
+    }
+  ]
 }
