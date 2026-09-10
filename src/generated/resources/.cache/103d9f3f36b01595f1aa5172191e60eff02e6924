@@ -1,7 +1,7 @@
-// 1.21.1	2024-12-23T17:14:58.8476087	Registries
+// 1.21.1	2026-09-10T11:07:04.63367	Registries
 dca0370345181f93592e1a605664f78e3be832dd data/cookscollection/neoforge/biome_modifier/add_salt.json
 f37e24324a65e91a101d5ea6bc7df0ef81ccf35c data/cookscollection/neoforge/biome_modifier/add_tree_lemon.json
-c292329cdfdfdd382a0c1d8a2e16c91c0567573b data/cookscollection/worldgen/configured_feature/lemon.json
-1fbfc60e5c350df0467bc231ef8416b69b51fdc5 data/cookscollection/worldgen/configured_feature/salt.json
+425351e9fdc7e4487b1b69aa696f259cbeab81c1 data/cookscollection/worldgen/configured_feature/lemon.json
+df8cc176c9443788805340b0b81d3c797eddf449 data/cookscollection/worldgen/configured_feature/salt.json
 5a8500172566660c81ee1994581054747b175e47 data/cookscollection/worldgen/placed_feature/lemon_placed.json
-d453b6f11b08979226fdd74f6ddfb9fc605bc1c1 data/cookscollection/worldgen/placed_feature/salt_placed.json
+3362ff9e3e496b569e552bfd1b9275601b7c698b data/cookscollection/worldgen/placed_feature/salt_placed.json
