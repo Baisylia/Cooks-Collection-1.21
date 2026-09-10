@@ -4,6 +4,7 @@ plugins {
     id 'idea'
     id 'maven-publish'
     id 'net.neoforged.moddev' version '1.0.21'
+    id 'me.modmuss50.mod-publish-plugin' version '2.2.0'
 }
 
 tasks.named('wrapper', Wrapper).configure {
@@ -181,6 +182,33 @@ publishing {
         maven {
             url "file://${project.projectDir}/repo"
         }
+    }
+}
+
+publishMods {
+    file = tasks.named("jar").flatMap { it.archiveFile }
+    changelog = rootProject.file("CHANGELOG-LATEST.md").text
+    type = STABLE
+    version = "${mod_version}-${minecraft_version}"
+    displayName = "${mod_name} ${minecraft_version} - ${mod_version}"
+    modLoaders.add('neoforge')
+
+    curseforge {
+        accessToken = providers.environmentVariable("CURSEFORGE_TOKEN")
+        projectId = providers.environmentVariable("CURSEFORGE_PROJECT_ID").getOrElse("")
+        minecraftVersions.add("${minecraft_version}")
+        client = true
+        server = true
+
+        requires("farmers-delight")
+    }
+
+    modrinth {
+        accessToken = providers.environmentVariable("MODRINTH_TOKEN")
+        projectId = "QC7N8ljN"
+        minecraftVersions.add("${minecraft_version}")
+
+        requires("farmers-delight")
     }
 }
 
