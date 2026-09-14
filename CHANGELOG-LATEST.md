@@ -1,4 +1,3 @@
-### Fixed
+### Changed
 
-- Fixed salted dripstone block occlusion.
-- Fix log warnings.
+- Added more tags for better mod compatibility.

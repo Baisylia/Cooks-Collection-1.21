@@ -2,16 +2,16 @@
   "type": "cookscollection:baking",
   "ingredients": [
     {
-      "item": "farmersdelight:wheat_dough"
+      "tag": "c:foods/dough/wheat"
     },
     {
-      "item": "minecraft:cocoa_beans"
+      "tag": "c:crops/cocoa_bean"
     },
     {
       "item": "minecraft:sugar"
     },
     {
-      "item": "cookscollection:salt"
+      "tag": "c:dusts/salt"
     }
   ],
   "result": {

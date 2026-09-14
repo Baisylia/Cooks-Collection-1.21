@@ -4,13 +4,13 @@
   "experience": 2.0,
   "ingredients": [
     {
-      "item": "cookscollection:cooking_oil"
+      "tag": "c:cooking_oil"
     },
     {
-      "item": "minecraft:potato"
+      "tag": "c:crops/potato"
     },
     {
-      "item": "cookscollection:salt"
+      "tag": "c:dusts/salt"
     }
   ],
   "recipe_book_tab": "meals",

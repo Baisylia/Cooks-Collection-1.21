@@ -2,16 +2,16 @@
   "type": "cookscollection:baking",
   "ingredients": [
     {
-      "item": "farmersdelight:wheat_dough"
+      "tag": "c:foods/dough/wheat"
     },
     {
-      "item": "cookscollection:lemon"
+      "tag": "c:fruits/lemon"
     },
     {
       "item": "minecraft:sugar"
     },
     {
-      "item": "cookscollection:salt"
+      "tag": "c:dusts/salt"
     },
     {
       "item": "minecraft:poppy"

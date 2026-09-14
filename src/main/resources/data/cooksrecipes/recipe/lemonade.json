@@ -4,10 +4,10 @@
   "experience": 2.0,
   "ingredients": [
     {
-      "item": "cookscollection:lemon"
+      "tag": "c:fruits/lemon"
     },
     {
-      "item": "cookscollection:lemon"
+      "tag": "c:fruits/lemon"
     },
     {
       "item": "minecraft:sugar"
