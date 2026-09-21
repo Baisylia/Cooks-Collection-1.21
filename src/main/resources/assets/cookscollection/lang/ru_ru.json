@@ -1,0 +1,42 @@
+{
+  "creativetab.cookscollection.cookscollections_tab": "Кулинарная коллекция",
+
+  "item.cookscollection.lemon": "Лимон",
+  "item.cookscollection.salt": "Соль",
+  "item.cookscollection.sunflower_seeds": "Семена подсолнуха",
+  "item.cookscollection.cooking_oil": "Кулинарное масло",
+  "item.cookscollection.lemon_muffin": "Лимонный маффин",
+  "item.cookscollection.chocolate_muffin": "Шоколадный маффин",
+  "item.cookscollection.fried_potato": "Жареный картофель",
+  "item.cookscollection.lemonade": "Лимонад",
+  "item.cookscollection.rustic_loaf_slice": "Ломтик деревенского хлеба",
+  "item.cookscollection.fish_and_chips": "Рыба с картофелем",
+
+  "recipe.cookscollection.shapeless_baking": "Выпечка без формы",
+  "recipe.cookscollection.shaped_baking": "Выпечка по форме",
+
+  "emi.category.cookscollection.shapeless_baking": "Выпечка без формы",
+  "emi.category.cookscollection.shaped_baking": "Выпечка по форме",
+
+  "cookscollection.subtitles.oven.crackle": "Духовка потрескивает",
+  "cookscollection.subtitles.oven.open": "Духовка открывается",
+  "cookscollection.subtitles.oven.close": "Духовка закрывается",
+  "cookscollection.subtitles.fruiting_leaves.pick_fruit": "Плод сорван",
+
+  "block.cookscollection.oven": "Духовка",
+  "block.cookscollection.lemon_log": "Лимонное бревно",
+  "block.cookscollection.lemon_wood": "Лимонная древесина",
+  "block.cookscollection.lemon_leaves": "Лимонная листва",
+  "block.cookscollection.fruiting_lemon_leaves": "Плодоносящая лимонная листва",
+  "block.cookscollection.lemon_sapling": "Саженец лимона",
+  "block.cookscollection.lemon_crate": "Ящик лимонов",
+  "block.cookscollection.rustic_loaf": "Деревенский хлеб",
+  "block.cookscollection.salt_block": "Соляной блок",
+  "block.cookscollection.salt_spike": "Соляной шип",
+
+  "container.cookscollection.oven.heated": "Нагрето",
+  "container.cookscollection.oven.not_heated": "Требуется нагрев снизу",
+
+  "advancement.cookscollection.salt.title": "Соль земли",
+  "advancement.cookscollection.salt.description": "Организуйте возобновляемую ферму соляных шипов с помощью воды, соляного блока и капельника"
+}
