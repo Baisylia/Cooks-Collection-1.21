@@ -1,17 +1,7 @@
 ### Added
 
-- **Salt Spike**:
-    - New salt stalagmite-like block grown when water drips through a Salt Block and Pointed Dripstone
-      stalactite onto a floor below.
-    - Drops 2–4 Salt (boosted by Fortune) when mined with a pickaxe, or itself when mined with Silk Touch.
-    - Deals extra fall damage when landed on.
-    - Can be crafted into Salt.
+- Salt spikes can be milled or crushed into Salt (with Create).
 
 ### Changed
 
-- Reworked salted dripstone into Salt Blocks and Salt Spikes with new textures and models by Bagels.
-- The Why So Salty advancement is now awarded by growing a Salt Spike.
-
-### Removed
-
-- Removed legacy salted dripstone blocks and unused textures.
+- Salt Block recipe is now 2x2 shaped instead of shapeless.

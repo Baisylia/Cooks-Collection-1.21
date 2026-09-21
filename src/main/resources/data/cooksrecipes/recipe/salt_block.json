@@ -1,18 +1,14 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
-      "item": "cookscollection:salt"
-    },
-    {
-      "item": "cookscollection:salt"
-    },
-    {
-      "item": "cookscollection:salt"
-    },
-    {
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
       "item": "cookscollection:salt"
     }
+  },
+  "pattern": [
+    "##",
+    "##"
   ],
   "result": {
     "count": 1,
