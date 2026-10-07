@@ -1,0 +1,42 @@
+{
+  "creativetab.cookscollection.cookscollections_tab": "厨师集萃",
+
+  "item.cookscollection.lemon": "柠檬",
+  "item.cookscollection.salt": "盐",
+  "item.cookscollection.sunflower_seeds": "向日葵种子",
+  "item.cookscollection.cooking_oil": "食用油",
+  "item.cookscollection.lemon_muffin": "柠檬玛芬",
+  "item.cookscollection.chocolate_muffin": "巧克力玛芬",
+  "item.cookscollection.fried_potato": "炸薯条",
+  "item.cookscollection.lemonade": "柠檬汁",
+  "item.cookscollection.rustic_loaf_slice": "乡村面包片",
+  "item.cookscollection.fish_and_chips": "炸鱼薯条",
+
+  "recipe.cookscollection.shapeless_baking": "无序烘焙",
+  "recipe.cookscollection.shaped_baking": "有序烘焙",
+
+  "emi.category.cookscollection.shapeless_baking": "无序烘焙",
+  "emi.category.cookscollection.shaped_baking": "有序烘焙",
+
+  "cookscollection.subtitles.oven.crackle": "烤箱：噼啪作响",
+  "cookscollection.subtitles.oven.open": "烤箱：打开",
+  "cookscollection.subtitles.oven.close": "烤箱：关闭",
+  "cookscollection.subtitles.fruiting_leaves.pick_fruit": "果实：被采摘",
+
+  "block.cookscollection.oven": "烤箱",
+  "block.cookscollection.lemon_log": "柠檬原木",
+  "block.cookscollection.lemon_wood": "柠檬木",
+  "block.cookscollection.lemon_leaves": "柠檬树叶",
+  "block.cookscollection.fruiting_lemon_leaves": "结果的柠檬树叶",
+  "block.cookscollection.lemon_sapling": "柠檬树苗",
+  "block.cookscollection.lemon_crate": "箱装柠檬",
+  "block.cookscollection.rustic_loaf": "乡村面包",
+  "block.cookscollection.salt_block": "盐块",
+  "block.cookscollection.salt_spike": "盐锥",
+
+  "container.cookscollection.oven.heated": "已受热",
+  "container.cookscollection.oven.not_heated": "下方需要热源",
+
+  "advancement.cookscollection.salt.title": "！？咸咸？！",
+  "advancement.cookscollection.salt.description": "用水、盐块和滴水石锥生产盐锥"
+}
